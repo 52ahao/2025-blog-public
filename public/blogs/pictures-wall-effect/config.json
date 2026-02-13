@@ -1,0 +1,9 @@
+{
+  "title": "本博客 /pictures 图片墙效果介绍",
+  "tags": ["前端", "图片墙", "Motion", "布局"],
+  "date": "2025-02-13",
+  "summary": "介绍本站图片页的布局算法（黄金角螺旋、稳定位置、抖动与旋转）以及拖拽、放大、描述浮层等交互与实现要点。",
+  "cover": null,
+  "hidden": false,
+  "category": null
+}
