@@ -1,5 +1,5 @@
 {
 	"title": "关于本站",
-	"description": "一个基于 Github 的现代化博客系统",
-	"content": "📦网站基于 Github 仓库完全存储，所有内容版本可控\n\n🚀无后端，无 serverless function，纯静态站点\n\n✏️文章通过可视化 UI 直接编辑并提交到 Github 仓库\n\n🔑所有用户都可以编辑，提交需要 Owner 的 Private Key\n\n## 技术栈\n\n- Next.js\n- React\n- TypeScript\n- Tailwind CSS\n- Motion\n- Github API"
+	"description": "基于 GitHub 仓库的个人博客，内容完全由自己掌控",
+	"content": "本站是基于 [2025-blog-public](https://github.com/YYsuni/2025-blog-public) 搭建的个人博客。\n\n## 特点\n\n- **内容在 GitHub**：文章、配置、图片等都存放在自己的仓库里，版本可追溯\n- **无自建后端**：通过 GitHub App + 私钥在前端签发 JWT，直接调用 GitHub API 提交内容\n- **在线编辑**：在「关于本站」、写文章、配置等页面编辑后保存，即可推送到仓库并触发重新部署\n\n## 技术栈\n\n- Next.js 16（App Router）\n- React 19\n- TypeScript\n- Tailwind CSS\n- Motion\n- GitHub API（Contents 读写）\n\n部署在 Vercel 或 Cloudflare，仓库与网站都归自己所有。"
 }

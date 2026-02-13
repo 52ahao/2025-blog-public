@@ -1,1 +1,65 @@
-[]
+[
+	{
+		"name": "2025-blog-public",
+		"year": 2026,
+		"description": "开源 blog，不写代码即可写文章、管理内容，无需服务器与费用。基于 Next.js + GitHub API。",
+		"image": "",
+		"url": "https://github.com/52ahao/2025-blog-public",
+		"tags": ["TypeScript", "Next.js", "Blog"],
+		"github": "https://github.com/52ahao/2025-blog-public"
+	},
+	{
+		"name": "CloudFlare-ImgBed",
+		"year": 2026,
+		"description": "基于 CloudFlare 的开源文件托管方案：图床 / 文件存储 / 网盘。Fork 自 MarSeventh/CloudFlare-ImgBed。",
+		"image": "",
+		"url": "https://github.com/52ahao/CloudFlare-ImgBed",
+		"tags": ["JavaScript", "CloudFlare", "图床"],
+		"github": "https://github.com/52ahao/CloudFlare-ImgBed"
+	},
+	{
+		"name": "七牛三弟 qiniu3d",
+		"year": 2025,
+		"description": "AI 驱动的 3D 模型生成平台。",
+		"image": "",
+		"url": "https://github.com/52ahao/qiniu3d",
+		"tags": ["HTML", "3D", "AI"],
+		"github": "https://github.com/52ahao/qiniu3d"
+	},
+	{
+		"name": "cdr 微信词达人",
+		"year": 2025,
+		"description": "微信词达人，高正确率、高效简洁，支持班级任务及自选任务。Fork 自 Rain-shadow/cdr。",
+		"image": "",
+		"url": "https://github.com/52ahao/cdr",
+		"tags": ["Python", "微信"],
+		"github": "https://github.com/52ahao/cdr"
+	},
+	{
+		"name": "chatgpt-on-wechat",
+		"year": 2023,
+		"description": "将 ChatGPT 接入微信，在微信中对话使用。",
+		"image": "",
+		"url": "https://github.com/52ahao/chatgpt-on-wechat",
+		"tags": ["Python", "微信", "AI"],
+		"github": "https://github.com/52ahao/chatgpt-on-wechat"
+	},
+	{
+		"name": "wechat-public-account-push",
+		"year": 2024,
+		"description": "微信公众号推送，可用于定时推送、提醒等。Fork 自 wangxinleo/wechat-public-account-push。",
+		"image": "",
+		"url": "https://github.com/52ahao/wechat-public-account-push",
+		"tags": ["JavaScript", "微信"],
+		"github": "https://github.com/52ahao/wechat-public-account-push"
+	},
+	{
+		"name": "Robust-Text-Content-Security-Detection-Algorithm",
+		"year": 2025,
+		"description": "鲁棒文本内容安全检测算法。",
+		"image": "",
+		"url": "https://github.com/52ahao/Robust-Text-Content-Security-Detection-Algorithm",
+		"tags": ["安全", "算法"],
+		"github": "https://github.com/52ahao/Robust-Text-Content-Security-Detection-Algorithm"
+	}
+]

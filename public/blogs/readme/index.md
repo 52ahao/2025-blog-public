@@ -1,4 +1,4 @@
-# My Blog
+# 本博客部署与使用指南（README）
 
 本项目从 [YYsuni/2025-blog-public](https://github.com/YYsuni/2025-blog-public) fork 而来，部署指南参考：[yysuni 的 readme](https://www.yysuni.com/blogs/readme)。
 
