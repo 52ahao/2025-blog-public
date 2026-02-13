@@ -15,7 +15,7 @@ type LikeButtonProps = {
 
 const ENDPOINT = 'https://blog-liker.yysuni1001.workers.dev/api/like'
 
-export default function LikeButton({ slug = 'yysuni', delay, className }: LikeButtonProps) {
+export default function LikeButton({ slug = 'open-source', delay, className }: LikeButtonProps) {
 	slug = BLOG_SLUG_KEY + slug
 	const [liked, setLiked] = useState(false)
 	const [show, setShow] = useState(false)
@@ -42,13 +42,13 @@ export default function LikeButton({ slug = 'yysuni', delay, className }: LikeBu
 		return typeof data?.count === 'number' ? data.count : null
 	}, [])
 
-	const { data: fetchedCount, mutate } = useSWR(slug ? `${ENDPOINT}?slug=${encodeURIComponent(slug)}` : null, fetcher, {
+	const { data: fetchedCount, mutate } = useSWR(ENDPOINT && slug ? `${ENDPOINT}?slug=${encodeURIComponent(slug)}` : null, fetcher, {
 		revalidateOnFocus: false,
 		dedupingInterval: 1000 * 10
 	})
 
 	const handleLike = useCallback(async () => {
-		if (!slug) return
+		if (!ENDPOINT || !slug) return
 		setLiked(true)
 		setJustLiked(true)
 
@@ -73,7 +73,7 @@ export default function LikeButton({ slug = 'yysuni', delay, className }: LikeBu
 		} catch {
 			// ignore
 		}
-	}, [slug, fetchedCount, mutate])
+	}, [ENDPOINT, slug, fetchedCount, mutate])
 
 	const count = typeof fetchedCount === 'number' ? fetchedCount : null
 
