@@ -1,5 +1,25 @@
 [
   {
+    "slug": "linux-familiar-campus-recruit",
+    "title": "校招中的「熟悉 Linux 操作系统」一般是指达到什么程度？",
+    "tags": ["校招", "Linux", "求职", "运维"],
+    "date": "2025-02-13",
+    "summary": "结合 B 站评论区高赞讨论，概括校招 JD 里「熟悉 Linux」大致对应的能力与心态，以及如何通过动手实践达到「够用」水平。",
+    "cover": null,
+    "hidden": false,
+    "category": null
+  },
+  {
+    "slug": "desktop-icon-white-recovery",
+    "title": "1分钟教会你：桌面图标变白如何恢复",
+    "tags": ["Windows", "桌面", "图标", "故障排除"],
+    "date": "2025-02-13",
+    "summary": "桌面快捷方式图标变白、只剩白块的常见原因与三种恢复方法：删图标缓存重启资源管理器、命令行重建、单图标修复。",
+    "cover": null,
+    "hidden": false,
+    "category": null
+  },
+  {
     "slug": "readme",
     "title": "本博客部署与使用指南（README）",
     "tags": ["部署", "Vercel", "Cloudflare", "GitHub App"],
