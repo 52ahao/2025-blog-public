@@ -2,7 +2,10 @@
 欢迎使用校园小确幸。
 
 ---
-## [关于我们](/blogs/about)
+
+>**[关于我们](https://blog.veinsec.com/blog/about)**
+
+
 ---
 ## 常见问题
 

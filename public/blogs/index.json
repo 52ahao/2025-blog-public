@@ -2,17 +2,26 @@
   {
     "slug": "xqx-help",
     "title": "帮助与常见问题",
-    "tags": ["帮助", "FAQ", "使用指南"],
-    "date": "2025-02-13",
-    "summary": "心晴绪 App 帮助中心，常见问题与使用说明目录。",
-    "cover": null,
+    "tags": [
+      "帮助",
+      "FAQ",
+      "使用指南"
+    ],
+    "date": "2025-02-13T08:00",
+    "summary": "校园小确幸 App 帮助中心，常见问题与使用说明目录。",
+    "cover": "/blogs/xqx-help/ad2d78b2a20b6688.png",
     "hidden": false,
-    "category": null
+    "category": ""
   },
   {
     "slug": "pictures-wall-effect",
     "title": "本博客 /pictures 图片墙效果介绍",
-    "tags": ["前端", "图片墙", "Motion", "布局"],
+    "tags": [
+      "前端",
+      "图片墙",
+      "Motion",
+      "布局"
+    ],
     "date": "2025-02-13",
     "summary": "介绍本站图片页的布局算法（黄金角螺旋、稳定位置、抖动与旋转）以及拖拽、放大、描述浮层等交互与实现要点。",
     "cover": null,
@@ -22,7 +31,12 @@
   {
     "slug": "linux-familiar-campus-recruit",
     "title": "校招中的「熟悉 Linux 操作系统」一般是指达到什么程度？",
-    "tags": ["校招", "Linux", "求职", "运维"],
+    "tags": [
+      "校招",
+      "Linux",
+      "求职",
+      "运维"
+    ],
     "date": "2025-02-13",
     "summary": "结合 B 站评论区高赞讨论，概括校招 JD 里「熟悉 Linux」大致对应的能力与心态，以及如何通过动手实践达到「够用」水平。",
     "cover": null,
@@ -32,7 +46,12 @@
   {
     "slug": "desktop-icon-white-recovery",
     "title": "1分钟教会你：桌面图标变白如何恢复",
-    "tags": ["Windows", "桌面", "图标", "故障排除"],
+    "tags": [
+      "Windows",
+      "桌面",
+      "图标",
+      "故障排除"
+    ],
     "date": "2025-02-13",
     "summary": "桌面快捷方式图标变白、只剩白块的常见原因与三种恢复方法：删图标缓存重启资源管理器、命令行重建、单图标修复。",
     "cover": null,
@@ -42,7 +61,12 @@
   {
     "slug": "readme",
     "title": "本博客部署与使用指南（README）",
-    "tags": ["部署", "Vercel", "Cloudflare", "GitHub App"],
+    "tags": [
+      "部署",
+      "Vercel",
+      "Cloudflare",
+      "GitHub App"
+    ],
     "date": "2025-02-13",
     "summary": "Fork、安装、Vercel/Cloudflare 部署、GitHub App 配置及日常使用说明，与仓库 README 同步。",
     "cover": null,
@@ -52,7 +76,12 @@
   {
     "slug": "about-this-blog",
     "title": "关于本博客项目：用前端 + GitHub 打造成的「完全属于你」的博客",
-    "tags": ["博客", "Next.js", "GitHub", "开源"],
+    "tags": [
+      "博客",
+      "Next.js",
+      "GitHub",
+      "开源"
+    ],
     "date": "2025-02-13",
     "summary": "介绍本博客项目的技术栈、GitHub App 内容推送机制、数据结构，以及适合的使用场景。",
     "cover": null,
