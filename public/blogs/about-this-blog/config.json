@@ -1,0 +1,9 @@
+{
+  "title": "关于本博客项目：用前端 + GitHub 打造成的「完全属于你」的博客",
+  "tags": ["博客", "Next.js", "GitHub", "开源"],
+  "date": "2025-02-13",
+  "summary": "介绍本博客项目的技术栈、GitHub App 内容推送机制、数据结构，以及适合的使用场景。",
+  "cover": null,
+  "hidden": false,
+  "category": null
+}
