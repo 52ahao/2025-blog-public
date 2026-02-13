@@ -28,7 +28,7 @@ export default function EditBlogPage() {
 	}
 
 	return isPreview ? (
-		<WritePreview form={form} coverPreviewUrl={coverPreviewUrl} onClose={closePreview} slug={slug} />
+		<WritePreview form={form} coverPreviewUrl={coverPreviewUrl} onClose={closePreview} />
 	) : (
 		<>
 			<div className='flex h-full justify-center gap-6 px-6 pt-24 pb-12'>

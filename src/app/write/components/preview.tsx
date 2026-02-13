@@ -7,10 +7,9 @@ type WritePreviewProps = {
 	form: PublishForm
 	coverPreviewUrl: string | null
 	onClose: () => void
-	slug?: string
 }
 
-export function WritePreview({ form, coverPreviewUrl, onClose, slug }: WritePreviewProps) {
+export function WritePreview({ form, coverPreviewUrl, onClose }: WritePreviewProps) {
 	const previewData = useWriteData()
 	return (
 		<div>
@@ -22,7 +21,6 @@ export function WritePreview({ form, coverPreviewUrl, onClose, slug }: WritePrev
 					date={previewData.date}
 					summary={form.summary}
 					cover={coverPreviewUrl || undefined}
-					slug={slug}
 				/>
 			</div>
 			<motion.button
