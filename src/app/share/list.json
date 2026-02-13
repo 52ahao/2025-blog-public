@@ -1,5 +1,245 @@
 [
 	{
+		"name": "Suno",
+		"url": "https://suno.com/create",
+		"logo": "https://suno.com/favicon.ico",
+		"description": "AI 音乐创作平台，输入一段文字描述就能生成完整的歌曲，包括人声和伴奏。效果惊人，适合灵感枯竭时玩一玩。",
+		"tags": [
+			"AI",
+			"音乐"
+		],
+		"stars": 4
+	},
+	{
+		"name": "iconfont",
+		"url": "https://www.iconfont.cn/",
+		"logo": "https://img.alicdn.com/imgextra/i4/O1CN01EYTRnJ297D6uNBWoj_!!6000000008020-55-tps-64-64.svg",
+		"description": "阿里巴巴矢量图标库，国内开发者几乎人手必备。海量图标可以按项目管理，支持 Symbol、Font class、Unicode 三种引用方式。",
+		"tags": [
+			"Icons"
+		],
+		"stars": 4
+	},
+	{
+		"name": "帮小忙",
+		"url": "https://tool.browser.qq.com/",
+		"logo": "https://tool.browser.qq.com/favicon.ico",
+		"description": "腾讯 QQ 浏览器出品的在线工具箱，涵盖图片处理、文本工具、生活娱乐等上百个小工具，免费无广告，体验很干净。",
+		"tags": [
+			"工具"
+		],
+		"stars": 4
+	},
+	{
+		"name": "LaTeX 在线编辑器",
+		"url": "https://www.latexlive.com/",
+		"logo": "https://www.latexlive.com/favicon.ico",
+		"description": "在线 LaTeX 公式编辑器，实时预览，还支持图片识别公式（OCR）。写博客、做文档时偶尔需要数学公式，这个很方便。",
+		"tags": [
+			"工具",
+			"学习"
+		],
+		"stars": 3
+	},
+	{
+		"name": "MockUPhone",
+		"url": "https://mockuphone.com/",
+		"logo": "https://mockuphone.com/favicon.ico",
+		"description": "免费的设备样机生成器，支持 iPhone、iPad、Mac、Android 等多种设备。上传截图即可生成带设备外壳的展示图，做产品展示很方便。",
+		"tags": [
+			"设计"
+		],
+		"stars": 3
+	},
+	{
+		"name": "HDRify",
+		"url": "https://www.hdrify.com/",
+		"logo": "https://www.hdrify.com/favicon.ico",
+		"description": "在线 HDR 发光效果生成器，可以让 Emoji 或图片产生炫酷的 HDR 光晕效果。社交媒体配图利器，效果很出片。",
+		"tags": [
+			"设计",
+			"趣味"
+		],
+		"stars": 3
+	},
+	{
+		"name": "PlantUML 编辑器",
+		"url": "https://app.timelessq.com/office/plantuml-editor",
+		"logo": "https://app.timelessq.com/favicon.ico",
+		"description": "在线 PlantUML 编辑器，用代码画流程图、时序图、类图等 UML 图表。比拖拽画图更高效，特别适合写技术文档时使用。",
+		"tags": [
+			"工具"
+		],
+		"stars": 3
+	},
+	{
+		"name": "CSS 渐变背景",
+		"url": "http://pxlab.cn/color/index.html",
+		"logo": "https://pxlab.cn/favicon.ico",
+		"description": "精选 CSS3 渐变背景样式合集，点击即可复制代码。做页面背景时不想费脑子配色，来这里挑一个就好。",
+		"tags": [
+			"CSS"
+		],
+		"stars": 3
+	},
+	{
+		"name": "网页配色参考",
+		"url": "https://www.46.la/tool/color-palette",
+		"logo": "https://www.46.la/favicon.ico",
+		"description": "网页设计常用颜色搭配大全，按色系分类整理，适合前端开发和 UI 设计时快速查阅参考。",
+		"tags": [
+			"CSS",
+			"设计"
+		],
+		"stars": 3
+	},
+	{
+		"name": "壁纸样机生成器",
+		"url": "https://mjcn.club/",
+		"logo": "https://mjcn.club/favicon.ico",
+		"description": "iPhone、iPad、Mac 锁屏/桌面壁纸样机模板，上传图片自动生成设备预览效果图，用来展示壁纸作品很不错。",
+		"tags": [
+			"设计"
+		],
+		"stars": 3
+	},
+	{
+		"name": "Readme Typing SVG",
+		"url": "https://readme-typing-svg.demolab.com/demo/",
+		"logo": "https://readme-typing-svg.demolab.com/favicon.ico",
+		"description": "GitHub Readme 打字动画 SVG 生成器，可以自定义文字、颜色、速度等参数。让你的 GitHub 个人主页更有活力。",
+		"tags": [
+			"Github"
+		],
+		"stars": 3
+	},
+	{
+		"name": "Screenshots Pro",
+		"url": "https://screenshots.pro/",
+		"logo": "https://screenshots.pro/favicon.ico",
+		"description": "App Store 应用截图生成器，支持 iOS 和 Android 多种设备尺寸。做独立开发上架应用时，省去了手动做截图的麻烦。",
+		"tags": [
+			"设计",
+			"工具"
+		],
+		"stars": 4
+	},
+	{
+		"name": "抠抠图",
+		"url": "https://www.koukoutu.com/",
+		"logo": "https://www.koukoutu.com/favicon.ico",
+		"description": "免费在线 AI 抠图工具，支持批量处理。对比 remove.bg，优势是没有导出尺寸限制，完全免费。",
+		"tags": [
+			"图片",
+			"AI"
+		],
+		"stars": 4
+	},
+	{
+		"name": "ioDraw",
+		"url": "https://www.iodraw.com/diagram/",
+		"logo": "https://www.iodraw.com/favicon.ico",
+		"description": "在线绘图工具，可以画流程图、思维导图、UML 图等。类似 draw.io 的国产替代，加载速度更快，中文支持更好。",
+		"tags": [
+			"工具"
+		],
+		"stars": 3
+	},
+	{
+		"name": "Github 文件加速",
+		"url": "https://github.akams.cn/",
+		"logo": "https://github.akams.cn/favicon.ico",
+		"description": "GitHub 文件下载加速代理，国内开发者的刚需。粘贴 GitHub 文件链接即可加速下载，告别龟速。",
+		"tags": [
+			"工具",
+			"Github"
+		],
+		"stars": 4
+	},
+	{
+		"name": "Copyleaks AI 检测",
+		"url": "https://copyleaks.com/zh/ai-content-detector",
+		"logo": "https://copyleaks.com/favicon.ico",
+		"description": "免费 AI 内容检测器，可以识别文本是否由 ChatGPT、GPT-4 等 AI 生成。写作时可以用来检查自己的文本 AI 痕迹。",
+		"tags": [
+			"AI"
+		],
+		"stars": 3
+	},
+	{
+		"name": "科研废物导航",
+		"url": "https://yanweb.top/",
+		"logo": "https://yanweb.top/favicon.ico",
+		"description": "面向科研人员的导航网站，收录了论文检索、学术工具、数据分析等常用资源。名字很自嘲，内容倒是挺实在的。",
+		"tags": [
+			"网站集",
+			"学习"
+		],
+		"stars": 3
+	},
+	{
+		"name": "爱给网",
+		"url": "https://www.aigei.com/",
+		"logo": "https://www.aigei.com/favicon.ico",
+		"description": "免费的音效配乐、3D 模型、视频素材下载站。做视频剪辑或游戏开发时找素材，这里资源很丰富，省去到处搜索的麻烦。",
+		"tags": [
+			"素材",
+			"音乐"
+		],
+		"stars": 3
+	},
+	{
+		"name": "FlexClip",
+		"url": "https://www.flexclip.com/cn/template/",
+		"logo": "https://www.flexclip.com/favicon.ico",
+		"description": "在线视频编辑工具，提供大量视频模板，拖拽即可制作。适合快速做宣传视频、Vlog 片头等，对非专业用户很友好。",
+		"tags": [
+			"设计",
+			"工具"
+		],
+		"stars": 3
+	},
+	{
+		"name": "工具猫",
+		"url": "https://www.toolscat.com/dev/data-generator",
+		"logo": "https://www.toolscat.com/favicon.ico",
+		"description": "批量生成模拟数据的在线工具，支持姓名、手机号、身份证、邮箱等多种类型。前端开发造测试数据时非常实用。",
+		"tags": [
+			"工具"
+		],
+		"stars": 3
+	},
+	{
+		"name": "SO JSON HTTP 测试",
+		"url": "https://www.sojson.com/httpRequest/",
+		"logo": "https://www.sojson.com/favicon.ico",
+		"description": "在线 HTTP 接口测试工具，支持 GET/POST 等多种请求方式。不想开 Postman 时的轻量替代，打开浏览器就能用。",
+		"tags": [
+			"工具"
+		],
+		"stars": 3
+	},
+	{
+		"name": "Parsevideo",
+		"url": "https://www.parsevideo.com/",
+		"logo": "https://www.parsevideo.com/favicon.ico",
+		"description": "免费在线视频解析下载网站，支持多个平台的视频链接解析和无水印下载。界面简洁，无需注册即可使用。",
+		"tags": [
+			"工具"
+		],
+		"stars": 3
+	},
+	{
+		"name": "摸瓜",
+		"url": "https://mogua.co/",
+		"logo": "https://mogua.co/favicon.ico",
+		"description": "免费 APK 反编译分析工具，可以查诈骗 APP、检测病毒 APP。对移动端安全感兴趣的开发者值得收藏。",
+		"tags": [
+			"工具"
+		],
+		"stars": 3
+	},
+	{
 		"name": "iLoveIMG",
 		"url": "https://www.iloveimg.com/zh-cn",
 		"logo": "/images/share/7e91e93e3cdd586b.svg",
