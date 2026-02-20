@@ -3,7 +3,7 @@
 
 ---
 
->**[关于我们](https://blog.veinsec.com/blog/about)**
+>**[关于我们](https://blog.veinsec.com/blog/xqx-about)**
 
 
 ---
