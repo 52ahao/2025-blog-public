@@ -1,0 +1,9 @@
+# 声明当前目录为工作区根目录（单包项目也必须写）
+packages:
+  - '.'
+
+# 明确授权这些包执行构建脚本（白名单）
+allowBuilds:
+  esbuild: true
+  sharp: true
+  workerd: true
