@@ -24,7 +24,6 @@
 - [同伴课表](#同伴课表)
 - [帮助与反馈](#帮助与反馈)
 - [常见问题](#常见问题)
-- [截图清单](#截图清单)
 
 ## App 简介
 
@@ -39,7 +38,7 @@
 | 效率 | 集成教务系统、文档、快捷工具、动态页面和收藏。 |
 | 我的 | 管理账号资料、学校信息、消息、文档贡献、高级功能和设置。 |
 
-![](/blogs/xqx-help/eca992f3a5f33e10.png)
+![](/blogs/xqx-help/8f63b4b2c358c48e.png)
 
 ### 适合谁使用
 
@@ -77,7 +76,7 @@
 
 建议首次使用时先登录再导入课表。未登录时也可以浏览部分页面，但上传文档、下载需要贡献值的资料、提交反馈、同步课表、绑定同伴和开通高级功能等操作需要账号。
 
-图片预留：`docs/images/login.png`
+![](/blogs/xqx-help/67f6b6563a10f979.png)
 
 ### 3. 完善资料与学校信息
 
@@ -94,13 +93,14 @@
 3. 大陆学校建议使用中文校名，方便匹配教务系统和本校资料。
 4. 如果你是培训机构、教辅机构或非学校用户，可选择“非学校用户/教辅机构”。
 
-图片预留：`docs/images/school-info.png`
+![](/blogs/xqx-help/d353bfe9be659a26.png)
 
 ## 首页
 
 首页是课程与学习工具的概览页。它不是单纯的欢迎页，而是一个可编辑的信息面板。
 
-图片预留：`docs/images/home-overview.png`
+![](/blogs/xqx-help/e66f743968397cc5.png)
+![](/blogs/xqx-help/a883c0038867d8d1.png)
 
 ### 天气周次
 
@@ -110,7 +110,7 @@
 
 周次来自当前课表的学期开始日期。如果你发现首页显示的“第几周”不对，通常需要到“课表设置 - 基础设置”里修正开始日期或当前周次。
 
-图片预留：`docs/images/home-weather-week.png`
+![](/blogs/xqx-help/8e9c69c8243af924.png)
 
 ### Today 今日课程
 
@@ -120,7 +120,6 @@ Today 模块按节次显示当天课程。课程卡片会展示课程名称、�
 
 Today 更适合早上快速确认当天安排。若你有多张课表，可以在首页编辑模式里指定 Today 使用哪几张课表，避免把不相关的课程混在一起。
 
-图片预留：`docs/images/home-today.png`
 
 ### Timeline 日程时间线
 
@@ -128,7 +127,6 @@ Timeline 按周和日期展示课程时间线，适合快速查看某一天的�
 
 Timeline 更适合查看整天节奏，例如上午是否连堂、下午是否空闲、晚上是否还有课。它与课表页不同，重点是按时间顺序扫描，而不是看完整周表格。
 
-图片预留：`docs/images/home-timeline.png`
 
 ### 快捷入口
 
@@ -139,7 +137,6 @@ Timeline 更适合查看整天节奏，例如上午是否连堂、下午是否�
 - 效率：进入效率工具页。
 - 资料：进入文档共享广场。
 
-图片预留：`docs/images/home-shortcuts.png`
 
 ### 首页模块编辑
 
@@ -147,13 +144,12 @@ Timeline 更适合查看整天节奏，例如上午是否连堂、下午是否�
 
 如果你只想把 App 当课表使用，可以隐藏不常用模块，让首页更简洁。若已开通高级功能，还可以在设置中隐藏首页标签，打开 App 后直接进入课表页。
 
-图片预留：`docs/images/home-edit-modules.png`
 
 ## 课表页
 
 课表页是 App 的核心页面，用于查看整周课程、切换周次、管理课表和进入导入/分享/设置等功能。
 
-图片预留：`docs/images/schedule-overview.png`
+![](/blogs/xqx-help/043214d6656e52c2.png)
 
 ### 周视图
 
@@ -161,7 +157,8 @@ Timeline 更适合查看整天节奏，例如上午是否连堂、下午是否�
 
 课表会根据设置显示或隐藏周六、周日、午休、早自习、晚休和非本周课程。
 
-图片预留：`docs/images/schedule-week-view.png`
+![](/blogs/xqx-help/e16e007c9bc77fe6.png)
+![](/blogs/xqx-help/cc4babdb4fbde838.png)
 
 ### 课程卡片状态
 
@@ -178,13 +175,14 @@ Timeline 更适合查看整天节奏，例如上午是否连堂、下午是否�
 
 点击课程格子会打开课程详情，显示课程名称、教师、地点、周次、节次、备注等信息。如果同一格子包含多条课程，可在详情中分别查看。
 
-图片预留：`docs/images/schedule-course-detail.png`
+![](/blogs/xqx-help/fe686c6e96f0b7e9.png)
 
 ### 拖动课程
 
 长按课程格子可以拖动课程到新的星期和节次。拖动结束后，App 会询问本次修改应用到“本周”还是“所有周”。调课记录和合并格子存在限制，部分课程不支持直接拖动，需要进入编辑页或调课功能处理。
 
-图片预留：`docs/images/schedule-drag-course.png`
+![](/blogs/xqx-help/57453efd78a6680e.png)
+![](/blogs/xqx-help/f48b908d572fcf24.png)
 
 ### 多课表管理
 
@@ -197,7 +195,7 @@ Timeline 更适合查看整天节奏，例如上午是否连堂、下午是否�
 - 进入某张课表的设置。
 - 删除不需要的课表。
 
-图片预留：`docs/images/schedule-table-list.png`
+![](/blogs/xqx-help/8f3e1f3dbab47e95.png)
 
 ### 课表页常用入口
 
@@ -216,7 +214,7 @@ Timeline 更适合查看整天节奏，例如上午是否连堂、下午是否�
 
 易课表支持多种导入方式。推荐优先使用“从教务系统导入”，因为这种方式通常保留的数据最完整、准确度最高。
 
-图片预留：`docs/images/import-menu.png`
+![](/blogs/xqx-help/386a42c7285505b8.png)
 
 ### 导入方式怎么选
 
@@ -262,13 +260,13 @@ App 会自动读取当前课表页面中的课程信息并生成预览。导入�
 - 电脑视图字体太小或按钮点不到时，切回手机视图。
 - 页面反复跳转或空白时，刷新页面后再试。
 
-图片预留：`docs/images/import-web-user-agent.png`
+![](/blogs/xqx-help/e4b4a3f09dcb1044.png)
 
 ### 手动输入教务系统网址
 
 如果当前学校没有配置教务系统入口，或者入口不可访问，可以手动输入 URL。建议优先使用 `https://` 开头的网址；若学校系统仅支持校园网，需要先连接校园网或学校 VPN。
 
-图片预留：`docs/images/import-manual-url.png`
+![](/blogs/xqx-help/5e656deb039941e1.png)
 
 ### 教务系统适配
 
@@ -283,7 +281,8 @@ App 会自动读取当前课表页面中的课程信息并生成预览。导入�
 
 如果担心账号安全，可以先提交学校和网址，再在反馈记录里与工作人员继续沟通。
 
-图片预留：`docs/images/import-adaptation.png`
+![](/blogs/xqx-help/b3285716fc658851.png)
+![](/blogs/xqx-help/5ab1b99d904c249e.png)
 
 ### 从 Excel 文件导入
 
