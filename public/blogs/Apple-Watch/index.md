@@ -10,6 +10,7 @@
 - iPhone 端已经导入课表，并正确设置学期开始日期、课程周次和上课时间。
 
 手表端展示的是 iPhone 默认课表的同步副本，不能在手表上导入、添加或编辑课程。需要修改课程时，请在 iPhone 端完成修改后重新同步。
+![](/blogs/Apple-Watch/43a780c13be62c76.png)![](/blogs/Apple-Watch/1fedc88f2536e394.png)
 
 ## 安装手表 App
 
@@ -21,6 +22,7 @@
 4. 安装完成后，在 Apple Watch 的 App 列表中打开“易课表”。
 
 如果“可用 App”中没有易课表，请先确认 iPhone 安装的是包含 Apple Watch 端的最新版本。
+![](/blogs/Apple-Watch/131704dd92fc508b.png)
 
 ## 首次同步课表
 
