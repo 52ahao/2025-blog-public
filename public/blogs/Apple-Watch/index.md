@@ -22,6 +22,7 @@
 4. 安装完成后，在 Apple Watch 的 App 列表中打开“易课表”。
 
 如果“可用 App”中没有易课表，请先确认 iPhone 安装的是包含 Apple Watch 端的最新版本。
+![](/blogs/Apple-Watch/79db78ff9a933598.png)
 ![](/blogs/Apple-Watch/131704dd92fc508b.png)
 
 ## 首次同步课表
